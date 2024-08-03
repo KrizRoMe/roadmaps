@@ -5,7 +5,7 @@
 - HTML is the standard markup language for creating Web Pages.
 - HTML describes a structure of a Web Page.
 - HTML elements label pieces of content such as "this is paragraph", "this is a heading", "this is a link", etc.
-- 👀 Tags are not case-sensitive. However.
+- 👀 Tags are not case-sensitive.
 - 📝 The W3C recommends writing all tags in lowercase.
 
 ## What is a Tag?
